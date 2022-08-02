@@ -1,0 +1,11 @@
+Z:\projects\ttzc0200\Hangman\Hangman\bin\Debug\netcoreapp2.1\Hangman.deps.json
+Z:\projects\ttzc0200\Hangman\Hangman\bin\Debug\netcoreapp2.1\Hangman.runtimeconfig.json
+Z:\projects\ttzc0200\Hangman\Hangman\bin\Debug\netcoreapp2.1\Hangman.runtimeconfig.dev.json
+Z:\projects\ttzc0200\Hangman\Hangman\bin\Debug\netcoreapp2.1\Hangman.dll
+Z:\projects\ttzc0200\Hangman\Hangman\bin\Debug\netcoreapp2.1\Hangman.pdb
+Z:\projects\ttzc0200\Hangman\Hangman\obj\Debug\netcoreapp2.1\Hangman.AssemblyInfoInputs.cache
+Z:\projects\ttzc0200\Hangman\Hangman\obj\Debug\netcoreapp2.1\Hangman.AssemblyInfo.cs
+Z:\projects\ttzc0200\Hangman\Hangman\obj\Debug\netcoreapp2.1\Hangman.dll
+Z:\projects\ttzc0200\Hangman\Hangman\obj\Debug\netcoreapp2.1\Hangman.pdb
+Z:\projects\ttzc0200\Hangman\Hangman\obj\Debug\netcoreapp2.1\Hangman.csprojAssemblyReference.cache
+Z:\projects\ttzc0200\Hangman\Hangman\bin\Debug\netcoreapp2.1\Words.txt
